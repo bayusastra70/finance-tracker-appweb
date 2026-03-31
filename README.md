@@ -162,7 +162,7 @@ The AI assistant can:
 
 
 <p align="center">
-  <img src="./screenshots/ui1.png" width="400px">
+  <img src="./screenshots/ui1.png" width="600px">
 </p>
 
 <br>
@@ -171,7 +171,7 @@ The AI assistant can:
 
 
 <p align="center">
-  <img src="./screenshots/ui2.png" width="400px">
+  <img src="./screenshots/ui2.png" width="600px">
 </p>
 
 <br>
