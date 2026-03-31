@@ -157,6 +157,25 @@ The AI assistant can:
 
 ---
 
+## Screenshots
+
+
+
+<p align="center">
+  <img src="./screenshots/ui1.png" width="150px">
+</p>
+
+<br>
+
+
+
+
+<p align="center">
+  <img src="./screenshots/ui2.png" width="150px">
+</p>
+
+<br>
+
 ## 📄 License
 
 MIT
